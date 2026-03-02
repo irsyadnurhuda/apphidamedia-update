@@ -1,7 +1,7 @@
 {
   "version": "1.0.4",
   "force_update": false,
-  "min_supported_version": "1.0.3",
+  "min_supported_version": "1.0.0",
   "changelog": [
     "Peningkatan stabilitas scanning.",
     "Perbaikan crash di Android 14.",
