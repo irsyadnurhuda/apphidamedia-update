@@ -1,6 +1,6 @@
 {
   "version": "1.0.4",
-  "force_update": true,
+  "force_update": false,
   "min_supported_version": "1.0.3",
   "changelog": [
     "Peningkatan stabilitas scanning.",
