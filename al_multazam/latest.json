@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "force_update": false,
+  "min_supported_version": "1.0.0",
+  "changelog": [
+    "Peningkatan peforma.",
+    "Perbaikan crash .",
+    "Optimasi kecepatan halaman."
+  ],
+  "playstore_url": "https://play.google.com/store/apps/details?id=sch.id.almultazambandung.mobile",
+  "release_date": "2026-03-02"
+}
