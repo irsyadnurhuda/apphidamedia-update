@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "force_update": true,
+  "version": "1.0.0",
+  "force_update": false,
   "min_supported_version": "1.0.0",
   "changelog": [
     "Peningkatan sistem.",
