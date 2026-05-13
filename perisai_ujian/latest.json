@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "app_name": "Perisai Ujian",
+  "force_update": false,
+  "maintenance_mode": false,
+  "min_supported_version": "1.0.0",
+  "release_date": "2026-05-13",
+  "changelog": [
+    "Peningkatan keamanan mode ujian.",
+    "Perbaikan stabilitas aplikasi di Android 14.",
+    "Optimasi deteksi device monitoring peserta.",
+    "Peningkatan performa saat upload hasil ujian."
+  ],
+  "playstore_url": "https://play.google.com/store/apps/details?id=com.hidamedia.perisai_ujian",
+  "support": {
+    "developer": "PT. Hidamedia Digital Creative",
+    "website": "https://hidamedia.com",
+    "email": "support@hidamedia.com"
+  }
+}
