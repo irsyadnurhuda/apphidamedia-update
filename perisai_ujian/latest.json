@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "app_name": "Perisai Ujian",
-  "force_update": false,
+  "force_update": true,
   "maintenance_mode": false,
   "min_supported_version": "1.0.0",
   "release_date": "2026-05-13",
