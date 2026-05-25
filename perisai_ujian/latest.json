@@ -1,15 +1,20 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "build_number": 4,
   "app_name": "Perisai Ujian",
-  "force_update": false,
+  "force_update": true,
   "maintenance_mode": false,
   "min_supported_version": "1.0.0",
-  "release_date": "2026-05-13",
+  "release_date": "2026-05-25",
   "changelog": [
-    "Peningkatan keamanan mode ujian.",
-    "Perbaikan stabilitas aplikasi di Android 14.",
-    "Optimasi deteksi device monitoring peserta.",
-    "Peningkatan performa saat upload hasil ujian."
+    "Perbaikan masalah layar hitam / freeze saat aplikasi dibuka.",
+    "Penambahan splash screen loading agar aplikasi lebih responsif.",
+    "Optimasi proses inisialisasi dan login sesi pengguna.",
+    "Peningkatan stabilitas aplikasi saat koneksi internet lambat.",
+    "Perbaikan sinkronisasi jawaban ujian otomatis.",
+    "Penyempurnaan sistem submit ujian saat waktu habis.",
+    "Perbaikan beberapa bug minor dan peningkatan performa aplikasi.",
+    "Peningkatan keamanan penyimpanan data sesi pengguna."
   ],
   "playstore_url": "https://play.google.com/store/apps/details?id=com.hidamedia.perisai_ujian",
   "support": {
