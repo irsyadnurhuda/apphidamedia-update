@@ -1,16 +1,12 @@
 {
   "version": "1.0.1",
-  "build_number": 5,
+  "build_number": 6,
   "app_name": "Perisai Ujian",
   "force_update": true,
   "maintenance_mode": false,
   "min_supported_version": "1.0.1",
   "release_date": "2026-05-26",
   "changelog": [
-    "Perbaikan masalah layar hitam / freeze saat aplikasi dibuka.",
-    "Penambahan splash screen loading agar aplikasi lebih responsif.",
-    "Optimasi proses inisialisasi dan login sesi pengguna.",
-    "Peningkatan stabilitas aplikasi saat koneksi internet lambat.",
     "Perbaikan sinkronisasi jawaban ujian otomatis.",
     "Penyempurnaan sistem submit ujian saat waktu habis.",
     "Perbaikan beberapa bug minor dan peningkatan performa aplikasi.",
