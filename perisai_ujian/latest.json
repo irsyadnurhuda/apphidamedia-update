@@ -1,13 +1,13 @@
 {
   "version": "1.0.1",
-  "build_number": 6,
+  "build_number": 7,
   "app_name": "Perisai Ujian",
   "force_update": true,
   "maintenance_mode": false,
   "min_supported_version": "1.0.1",
-  "release_date": "2026-05-26",
+  "release_date": "2026-06-5",
   "changelog": [
-    "Perbaikan sinkronisasi jawaban ujian otomatis.",
+    "Perbaikan sinkronisasi jawaban ujian otomatis saat offline.",
     "Penyempurnaan sistem submit ujian saat waktu habis.",
     "Perbaikan beberapa bug minor dan peningkatan performa aplikasi.",
     "Peningkatan keamanan penyimpanan data sesi pengguna."
